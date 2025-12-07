@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "SAKURAドロップス (2024 Mix)",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2025-12-07T12:19:33.830647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SAKURAドロップス (2024 Mix)",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/01_SAKURAドロップス_(2024_Mix)_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SAKURAドロップス (2024 Mix) - SAKURA Drops (2024 Mix)",
+      "artist": "宇多田ヒカル - Hikaru Utada",
+      "has_synced": true,
+      "path": "select/02_SAKURAドロップス_(2024_Mix)_-_SAKURA_Drops_(2024_Mix)_宇多田ヒカル_-_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SAKURAドロップス - 2024 Mix",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/03_SAKURAドロップス_-_2024_Mix_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SAKURAドロップス (2024 Mix)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/04_SAKURAドロップス_(2024_Mix)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SAKURAドロップス (2024 Mix)",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_SAKURAドロップス_(2024_Mix)_宇多田_ヒカル.txt"
+    }
+  ]
+}
